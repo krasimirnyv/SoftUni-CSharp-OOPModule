@@ -18,20 +18,16 @@
 
 4. Polymorphism
 
-5. Exeption Handling
+5. SOLID
 
-6. Debugging Techniques
+6. Reflection and Attributes
 
-7. SOLID
+7. Unit Testing
 
-8. Reflection and Attributes
+8. Mocking and Test - Driven Development
 
-9. Unit Testing
+9. Design Patterns
 
-10. Mocking and Test - Driven Development
-
-11. Design Patterns
-
-12. Workshops
+10. Workshops
 - 
 - 
