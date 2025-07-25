@@ -1,0 +1,132 @@
+SF:/Users/krasi/Desktop/Software University/CSharp Path/4. OOP/SoftUni-CSharp-OOPModule/7. Unit Testing/09/DatabaseExtended/Database.cs
+FN:19,System.Int32 ExtendedDatabase.Database::get_Count()
+FNDA:0,System.Int32 ExtendedDatabase.Database::get_Count()
+DA:20,0
+FN:23,System.Void ExtendedDatabase.Database::AddRange(ExtendedDatabase.Person[])
+FNDA:0,System.Void ExtendedDatabase.Database::AddRange(ExtendedDatabase.Person[])
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:30,0
+DA:31,0
+DA:32,0
+DA:33,0
+DA:34,0
+BRDA:25,10,0,0
+BRDA:25,10,1,0
+BRDA:30,52,1,0
+BRDA:30,52,0,0
+FN:36,System.Void ExtendedDatabase.Database::Add(ExtendedDatabase.Person)
+FNDA:0,System.Void ExtendedDatabase.Database::Add(ExtendedDatabase.Person)
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:43,0
+DA:44,0
+DA:45,0
+DA:48,0
+DA:49,0
+DA:50,0
+DA:53,0
+DA:54,0
+DA:55,0
+BRDA:38,26,0,0
+BRDA:38,26,1,0
+BRDA:43,65,0,0
+BRDA:43,65,1,0
+BRDA:48,104,0,0
+BRDA:48,104,1,0
+BRDA:43,1,0,0
+BRDA:43,1,1,0
+BRDA:48,1,0,0
+BRDA:48,1,1,0
+FN:57,System.Void ExtendedDatabase.Database::Remove()
+FNDA:0,System.Void ExtendedDatabase.Database::Remove()
+DA:58,0
+DA:59,0
+DA:60,0
+DA:61,0
+DA:64,0
+DA:65,0
+DA:66,0
+BRDA:59,12,0,0
+BRDA:59,12,1,0
+FN:68,ExtendedDatabase.Person ExtendedDatabase.Database::FindByUsername(System.String)
+FNDA:0,ExtendedDatabase.Person ExtendedDatabase.Database::FindByUsername(System.String)
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:75,0
+DA:76,0
+DA:77,0
+DA:80,0
+DA:81,0
+DA:82,0
+BRDA:70,27,0,0
+BRDA:70,27,1,0
+BRDA:75,69,0,0
+BRDA:75,69,1,0
+BRDA:75,1,0,0
+BRDA:75,1,1,0
+FN:85,ExtendedDatabase.Person ExtendedDatabase.Database::FindById(System.Int64)
+FNDA:0,ExtendedDatabase.Person ExtendedDatabase.Database::FindById(System.Int64)
+DA:86,0
+DA:87,0
+DA:88,0
+DA:89,0
+DA:92,0
+DA:93,0
+DA:94,0
+DA:97,0
+DA:98,0
+DA:99,0
+BRDA:87,26,0,0
+BRDA:87,26,1,0
+BRDA:92,68,0,0
+BRDA:92,68,1,0
+BRDA:92,1,0,0
+BRDA:92,1,1,0
+FN:11,System.Void ExtendedDatabase.Database::.ctor(ExtendedDatabase.Person[])
+FNDA:0,System.Void ExtendedDatabase.Database::.ctor(ExtendedDatabase.Person[])
+DA:12,0
+DA:13,0
+DA:14,0
+DA:15,0
+DA:16,0
+LF:55
+LH:0
+BRF:28
+BRH:0
+FNF:7
+FNH:0
+end_of_record
+SF:/Users/krasi/Desktop/Software University/CSharp Path/4. OOP/SoftUni-CSharp-OOPModule/7. Unit Testing/09/DatabaseExtended/Person.cs
+FN:15,System.String ExtendedDatabase.Person::get_UserName()
+FNDA:0,System.String ExtendedDatabase.Person::get_UserName()
+DA:16,0
+FN:16,System.Void ExtendedDatabase.Person::set_UserName(System.String)
+FNDA:0,System.Void ExtendedDatabase.Person::set_UserName(System.String)
+DA:17,0
+FN:21,System.Int64 ExtendedDatabase.Person::get_Id()
+FNDA:0,System.Int64 ExtendedDatabase.Person::get_Id()
+DA:22,0
+FN:22,System.Void ExtendedDatabase.Person::set_Id(System.Int64)
+FNDA:0,System.Void ExtendedDatabase.Person::set_Id(System.Int64)
+DA:23,0
+FN:7,System.Void ExtendedDatabase.Person::.ctor(System.Int64,System.String)
+FNDA:0,System.Void ExtendedDatabase.Person::.ctor(System.Int64,System.String)
+DA:8,0
+DA:9,0
+DA:10,0
+DA:11,0
+DA:12,0
+LF:9
+LH:0
+BRF:0
+BRH:0
+FNF:5
+FNH:0
+end_of_record

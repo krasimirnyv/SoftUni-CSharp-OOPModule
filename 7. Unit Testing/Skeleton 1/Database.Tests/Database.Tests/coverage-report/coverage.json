@@ -1,0 +1,133 @@
+{
+  "Database.dll": {
+    "/Users/krasi/Desktop/Software University/CSharp Path/4. OOP/SoftUni-CSharp-OOPModule/7. Unit Testing/09/Database/Database.cs": {
+      "Database.Database": {
+        "System.Int32 Database.Database::get_Count()": {
+          "Lines": {
+            "25": 3
+          },
+          "Branches": []
+        },
+        "System.Void Database.Database::Add(System.Int32)": {
+          "Lines": {
+            "29": 16,
+            "30": 16,
+            "31": 0,
+            "32": 0,
+            "35": 16,
+            "36": 16,
+            "37": 16
+          },
+          "Branches": [
+            {
+              "Line": 30,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 30,
+              "Offset": 13,
+              "EndOffset": 27,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 16
+            }
+          ]
+        },
+        "System.Void Database.Database::Remove()": {
+          "Lines": {
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0
+          },
+          "Branches": [
+            {
+              "Line": 41,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 12,
+              "EndOffset": 26,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Int32[] Database.Database::Fetch()": {
+          "Lines": {
+            "51": 0,
+            "52": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "59": 0,
+            "60": 0
+          },
+          "Branches": [
+            {
+              "Line": 54,
+              "Offset": 45,
+              "EndOffset": 17,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 45,
+              "EndOffset": 47,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void Database.Database::.ctor(System.Int32[])": {
+          "Lines": {
+            "11": 1,
+            "12": 1,
+            "13": 1,
+            "15": 34,
+            "16": 16,
+            "17": 16,
+            "18": 16,
+            "20": 1,
+            "21": 1
+          },
+          "Branches": [
+            {
+              "Line": 15,
+              "Offset": 49,
+              "EndOffset": 25,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 16
+            },
+            {
+              "Line": 15,
+              "Offset": 49,
+              "EndOffset": 51,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,125 @@
+SF:/Users/krasi/Desktop/Software University/CSharp Path/4. OOP/SoftUni-CSharp-OOPModule/7. Unit Testing/09/CarManager/Car.cs
+FN:32,System.String CarManager.Car::get_Make()
+FNDA:0,System.String CarManager.Car::get_Make()
+DA:33,0
+DA:34,0
+DA:35,0
+FN:36,System.Void CarManager.Car::set_Make(System.String)
+FNDA:0,System.Void CarManager.Car::set_Make(System.String)
+DA:37,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:43,0
+DA:44,0
+BRDA:38,9,0,0
+BRDA:38,9,1,0
+FN:49,System.String CarManager.Car::get_Model()
+FNDA:0,System.String CarManager.Car::get_Model()
+DA:50,0
+DA:51,0
+DA:52,0
+FN:53,System.Void CarManager.Car::set_Model(System.String)
+FNDA:0,System.Void CarManager.Car::set_Model(System.String)
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:60,0
+DA:61,0
+BRDA:55,9,0,0
+BRDA:55,9,1,0
+FN:66,System.Double CarManager.Car::get_FuelConsumption()
+FNDA:0,System.Double CarManager.Car::get_FuelConsumption()
+DA:67,0
+DA:68,0
+DA:69,0
+FN:70,System.Void CarManager.Car::set_FuelConsumption(System.Double)
+FNDA:0,System.Void CarManager.Car::set_FuelConsumption(System.Double)
+DA:71,0
+DA:72,0
+DA:73,0
+DA:74,0
+DA:77,0
+DA:78,0
+BRDA:72,18,0,0
+BRDA:72,18,1,0
+FN:83,System.Double CarManager.Car::get_FuelAmount()
+FNDA:0,System.Double CarManager.Car::get_FuelAmount()
+DA:84,0
+DA:85,0
+DA:86,0
+FN:87,System.Void CarManager.Car::set_FuelAmount(System.Double)
+FNDA:0,System.Void CarManager.Car::set_FuelAmount(System.Double)
+DA:88,0
+DA:89,0
+DA:90,0
+DA:91,0
+DA:94,0
+DA:95,0
+BRDA:89,15,0,0
+BRDA:89,15,1,0
+FN:100,System.Double CarManager.Car::get_FuelCapacity()
+FNDA:0,System.Double CarManager.Car::get_FuelCapacity()
+DA:101,0
+DA:102,0
+DA:103,0
+FN:104,System.Void CarManager.Car::set_FuelCapacity(System.Double)
+FNDA:0,System.Void CarManager.Car::set_FuelCapacity(System.Double)
+DA:105,0
+DA:106,0
+DA:107,0
+DA:108,0
+DA:111,0
+DA:112,0
+BRDA:106,18,0,0
+BRDA:106,18,1,0
+FN:115,System.Void CarManager.Car::Refuel(System.Double)
+FNDA:0,System.Void CarManager.Car::Refuel(System.Double)
+DA:116,0
+DA:117,0
+DA:118,0
+DA:119,0
+DA:122,0
+DA:124,0
+DA:125,0
+DA:126,0
+DA:127,0
+DA:128,0
+BRDA:117,18,0,0
+BRDA:117,18,1,0
+BRDA:124,63,0,0
+BRDA:124,63,1,0
+FN:130,System.Void CarManager.Car::Drive(System.Double)
+FNDA:0,System.Void CarManager.Car::Drive(System.Double)
+DA:131,0
+DA:132,0
+DA:134,0
+DA:135,0
+DA:136,0
+DA:139,0
+DA:140,0
+BRDA:134,31,0,0
+BRDA:134,31,1,0
+FN:16,System.Void CarManager.Car::.ctor()
+FNDA:0,System.Void CarManager.Car::.ctor()
+DA:17,0
+DA:18,0
+DA:19,0
+DA:20,0
+FN:21,System.Void CarManager.Car::.ctor(System.String,System.String,System.Double,System.Double)
+FNDA:0,System.Void CarManager.Car::.ctor(System.String,System.String,System.Double,System.Double)
+DA:22,0
+DA:23,0
+DA:24,0
+DA:25,0
+DA:26,0
+DA:27,0
+DA:28,0
+LF:73
+LH:0
+BRF:16
+BRH:0
+FNF:14
+FNH:0
+end_of_record
