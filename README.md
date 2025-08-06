@@ -29,5 +29,5 @@
 9. Design Patterns
 
 10. Workshops
-- 
-- 
+- Snake Game
+- Dependency Injection Framework
